@@ -38,6 +38,12 @@ nav{
 #about{
     height:18vh;
 }
+.header-link2{
+    margin-left: 25%;
+    padding: 30px;
+    font-family: "Roboto-Thin";
+    width: 80%;
+}
 .logo{
     /* padding: 5px; */
     margin-left: 10%;
@@ -58,7 +64,7 @@ ul,li{
 }
 .header-link{
     margin-left: 25%;
-    padding: 30px;
+    padding: 10px;
     font-family: "Roboto-Thin";
     width: 80%;
 }
@@ -112,7 +118,6 @@ button{
     padding: 6%;
 }
 /* body */
-/* Home page */
 h2{
     text-align: center;
     font-size: 36px;
@@ -181,29 +186,10 @@ h2{
     padding: 0.5% 3% 0.5% 3.5%;
     width:7%;
 }
-/* About page */
-h1{
-    font-family: "Roboto-Regular";
-    color: #1f2937;
-    text-align: center;
-    padding-top: 20px;
-
-}
-.abouttext{
-    background-color: #E5E7EB;
-    margin:5%;
-    border-radius: 20px;
-}
-.abouttext article{
-    font-family: "Roboto-LightItalic";
-    font-size: 25px;
-    text-align: center;
-    padding:5% 25%;
-    width: 50%;
-}
 /* footer */
 footer{
     background-color: #1f2937;
+    
 }
 footer p{
     color:#F9FAF8;
