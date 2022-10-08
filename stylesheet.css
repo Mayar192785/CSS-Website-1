@@ -110,6 +110,7 @@ button{
     border:none;
     margin: 3% 0 0 0;
     padding: 6%;
+    cursor: pointer;
 }
 /* body */
 /* Home page */
@@ -177,7 +178,7 @@ h2{
 .call-action .button{
     border: 2px solid #E5E7EB;
     border-radius: 8px;
-    margin: 5% 5% 5% 5%;
+    margin: 5%;
     padding: 0.5% 3% 0.5% 3.5%;
     width:7%;
 }
